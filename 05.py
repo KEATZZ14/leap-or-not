@@ -1,4 +1,4 @@
-year = 2018
+year = int(input(""))
 if(year%4==0):
     print ("the year is leap year")
 else:
